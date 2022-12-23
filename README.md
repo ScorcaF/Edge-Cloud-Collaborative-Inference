@@ -6,6 +6,7 @@ Collaborative Inference framework with the following components:
 
 
 
-
-
 ![edge cloud](https://user-images.githubusercontent.com/70110839/209355345-1b9b7669-db17-49a7-9c95-b90af3489ea9.png)
+
+Both pipelines run the same model (same architecture and same weights) deployed in tflite format, but with
+different pre-processing.
